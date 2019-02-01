@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 697129be188841a4298d18a63dfa8beb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: node_id31
+    100002: node_id33
+    100004: node_id35
+    100006: node_id37
+    100008: node_id38
+    100010: node_id40
+    100012: node_id42
+    100014: node_id44
+    100016: node_id46
+    100018: node_id48
+    100020: node_id50
+    100022: node_id52
+    100024: node_id54
+    100026: node_id56
+    100028: node_id58
+    100030: node_id60
+    100032: node_id62
+    100034: node_id64
+    100036: node_id66
+    100038: node_id68
+    100040: //RootNode
+    400000: node_id31
+    400002: node_id33
+    400004: node_id35
+    400006: node_id37
+    400008: node_id38
+    400010: node_id40
+    400012: node_id42
+    400014: node_id44
+    400016: node_id46
+    400018: node_id48
+    400020: node_id50
+    400022: node_id52
+    400024: node_id54
+    400026: node_id56
+    400028: node_id58
+    400030: node_id60
+    400032: node_id62
+    400034: node_id64
+    400036: node_id66
+    400038: node_id68
+    400040: //RootNode
+    2100000: Material_106
+    2100002: Material_107
+    2100004: Material_108
+    2100006: Material_109
+    2100008: Material_110
+    2100010: Material_111
+    2100012: Material_112
+    2100014: Material_113
+    2100016: Material_114
+    2100018: Material_115
+    2100020: Material_116
+    2100022: Material_117
+    2100024: Material_118
+    2100026: Material_119
+    2100028: Material_120
+    2100030: Material_121
+    2100032: Material_122
+    2100034: Material_123
+    2300000: node_id31
+    2300002: node_id33
+    2300004: node_id35
+    2300006: node_id38
+    2300008: node_id40
+    2300010: node_id42
+    2300012: node_id44
+    2300014: node_id46
+    2300016: node_id48
+    2300018: node_id50
+    2300020: node_id52
+    2300022: node_id54
+    2300024: node_id56
+    2300026: node_id58
+    2300028: node_id60
+    2300030: node_id62
+    2300032: node_id64
+    2300034: node_id66
+    3300000: node_id31
+    3300002: node_id33
+    3300004: node_id35
+    3300006: node_id38
+    3300008: node_id40
+    3300010: node_id42
+    3300012: node_id44
+    3300014: node_id46
+    3300016: node_id48
+    3300018: node_id50
+    3300020: node_id52
+    3300022: node_id54
+    3300024: node_id56
+    3300026: node_id58
+    3300028: node_id60
+    3300030: node_id62
+    3300032: node_id64
+    3300034: node_id66
+    4300000: node_id31
+    4300002: node_id33
+    4300004: node_id35
+    4300006: node_id38
+    4300008: node_id40
+    4300010: node_id42
+    4300012: node_id44
+    4300014: node_id46
+    4300016: node_id48
+    4300018: node_id50
+    4300020: node_id52
+    4300022: node_id54
+    4300024: node_id56
+    4300026: node_id58
+    4300028: node_id60
+    4300030: node_id62
+    4300032: node_id64
+    4300034: node_id66
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 14
+    second: {fileID: 2800000, guid: 7527e474e6c4b83469ee20420a82bd10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 16
+    second: {fileID: 2800000, guid: 95159ebb950b68b4f89edb63b15d862a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 19
+    second: {fileID: 2800000, guid: ef36b13fbc1185e4aae9d64047c4a6af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 21
+    second: {fileID: 2800000, guid: b2d831cb0ecc68644b3bda5a6d5d9b1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 24
+    second: {fileID: 2800000, guid: 120ab9d8eb4e24b4289cac7991b5a2dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 26
+    second: {fileID: 2800000, guid: 89cf85fe2c807a64098176d3a6ee6f12, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
